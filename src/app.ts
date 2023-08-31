@@ -1,5 +1,5 @@
 import express from 'express';
-import { RequestParameters, add } from '../03-simple-api';
+import { RequestParameters, add } from '../04-simple-api';
   
 const app = express();
 const PORT = 3000;
